@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RP2040-ZERO")(type "KiCad")(uri "${KIPRJMOD}/Shittersv2/RP2040-ZERO.kicad_sym")(options "")(descr ""))
+  (lib (name "CRCW120675R0FKEAHP")(type "KiCad")(uri "${KIPRJMOD}/Shittersv2/CRCW120675R0FKEAHP.kicad_sym")(options "")(descr ""))
+  (lib (name "C1206X104J3REC7210")(type "KiCad")(uri "${KIPRJMOD}/Shittersv2/C1206X104J3REC7210.kicad_sym")(options "")(descr ""))
+)
